@@ -1,0 +1,4 @@
+Introduction to playing method:
+1. The pieces can move in the adjacent six or four directions connected by a straight line. If there are pieces in the adjacent position, the next position in the straight direction of the position is empty, then the pieces can directly "jump" to the empty position
+
+2. In the end, only one piece is left to succeed. If there are more than one piece left and cannot move any piece, it is a failure
